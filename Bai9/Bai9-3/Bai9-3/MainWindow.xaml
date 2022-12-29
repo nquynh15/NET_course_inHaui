@@ -1,0 +1,66 @@
+﻿<Window x:Class="Bai9_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai9_3"
+        mc:Ignorable="d"
+        Title="Cập nhật thành viên" Height="450" Width="700"
+        FontSize="20">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border BorderThickness="6" BorderBrush="LightBlue" Background="AliceBlue"
+                Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="5"/>
+
+        <StackPanel Grid.Row="0" Grid.Column="0" Margin="10" Orientation="Horizontal">
+            <Label Content="Họ tên" Margin="10"/>
+            <TextBox x:Name="txtHoTen" Height="30" Width="200"/>
+        </StackPanel>
+        <GroupBox Grid.Row="1" Grid.Column="0" Margin="10, 0, 10, 10" Header="Giới tính">
+            <StackPanel  Orientation="Vertical">
+                <RadioButton x:Name="RadNam" Content="Nam" IsChecked="True"
+                         VerticalAlignment="Center"/>
+                <RadioButton x:Name="RadNu" Content="Nữ" IsChecked="False"
+                         VerticalAlignment="Center"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="2" Grid.Column="0" Margin="10, 0, 10, 10" Header="Tình trạng hôn nhân">
+            <StackPanel  Orientation="Vertical">
+                <RadioButton x:Name="RadChuaKH" Content="Chưa kết hôn" IsChecked="True"
+                         VerticalAlignment="Center"/>
+                <RadioButton x:Name="RadDaKH" Content="Đã kết hôn" IsChecked="False"
+                         VerticalAlignment="Center"/>
+            </StackPanel>
+        </GroupBox>
+        <StackPanel Grid.Row="3" Grid.Column="0" Orientation="Vertical" Margin="10">
+            <CheckBox x:Name="chkBongDa" Content="Bóng đá"
+                             VerticalAlignment="Center"/>
+            <CheckBox x:Name="chkBoi" Content="Bơi"
+                             VerticalAlignment="Center"/>
+            <CheckBox x:Name="chkAmNhac" Content="Âm Nhạc"
+                             VerticalAlignment="Center"/>
+            <CheckBox x:Name="chkLeoNui" Content="Leo núi"
+                             VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <ListBox x:Name="lstDanhSach" Grid.Row="0" Grid.Column="1"
+                 Grid.RowSpan="4" Margin="10"/>
+        <StackPanel  Grid.Row="5" Grid.Column="1" Orientation="Horizontal" 
+                     HorizontalAlignment="Right" VerticalAlignment="Center">
+            <Button x:Name="btnThem" Margin="10"
+                Width="100" Height="30">Thêm</Button>
+            <Button x:Name="btnThoat" Margin="10"
+                Width="100" Height="30">Thoát</Button>
+        </StackPanel>
+    </Grid>
+</Window>
