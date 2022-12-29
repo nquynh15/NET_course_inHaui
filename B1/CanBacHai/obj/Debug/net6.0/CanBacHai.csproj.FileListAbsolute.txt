@@ -1,0 +1,15 @@
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\bin\Debug\net6.0\CanBacHai.exe
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\bin\Debug\net6.0\CanBacHai.deps.json
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\bin\Debug\net6.0\CanBacHai.runtimeconfig.json
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\bin\Debug\net6.0\CanBacHai.dll
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\bin\Debug\net6.0\CanBacHai.pdb
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\CanBacHai.csproj.AssemblyReference.cache
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\CanBacHai.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\CanBacHai.AssemblyInfoInputs.cache
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\CanBacHai.AssemblyInfo.cs
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\CanBacHai.csproj.CoreCompileInputs.cache
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\CanBacHai.dll
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\refint\CanBacHai.dll
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\CanBacHai.pdb
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\CanBacHai.genruntimeconfig.cache
+E:\NET\B1\BTSauKhiLenLop\CanBacHai\obj\Debug\net6.0\ref\CanBacHai.dll

@@ -1,0 +1,5 @@
+E:\NET\B1\BTSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.csproj.AssemblyReference.cache
+E:\NET\B1\BTSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\B1\BTSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.AssemblyInfoInputs.cache
+E:\NET\B1\BTSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.AssemblyInfo.cs
+E:\NET\B1\BTSauKhiLenLop\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.csproj.CoreCompileInputs.cache

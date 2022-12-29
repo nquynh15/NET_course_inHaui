@@ -1,0 +1,15 @@
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\bin\Debug\net6.0\BT_TongHop.exe
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\bin\Debug\net6.0\BT_TongHop.deps.json
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\bin\Debug\net6.0\BT_TongHop.runtimeconfig.json
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\bin\Debug\net6.0\BT_TongHop.dll
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\bin\Debug\net6.0\BT_TongHop.pdb
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\BT_TongHop.csproj.AssemblyReference.cache
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\BT_TongHop.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\BT_TongHop.AssemblyInfoInputs.cache
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\BT_TongHop.AssemblyInfo.cs
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\BT_TongHop.csproj.CoreCompileInputs.cache
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\BT_TongHop.dll
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\refint\BT_TongHop.dll
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\BT_TongHop.pdb
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\BT_TongHop.genruntimeconfig.cache
+E:\NET\B1\BT Tren Lop\BT_TongHop\BT_TongHop\obj\Debug\net6.0\ref\BT_TongHop.dll

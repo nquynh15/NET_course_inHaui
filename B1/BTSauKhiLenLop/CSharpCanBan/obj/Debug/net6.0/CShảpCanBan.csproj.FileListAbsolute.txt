@@ -1,0 +1,15 @@
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\bin\Debug\net6.0\CShảpCanBan.exe
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\bin\Debug\net6.0\CShảpCanBan.deps.json
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\bin\Debug\net6.0\CShảpCanBan.runtimeconfig.json
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\bin\Debug\net6.0\CShảpCanBan.dll
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\bin\Debug\net6.0\CShảpCanBan.pdb
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\CShảpCanBan.csproj.AssemblyReference.cache
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\CShảpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\CShảpCanBan.AssemblyInfoInputs.cache
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\CShảpCanBan.AssemblyInfo.cs
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\CShảpCanBan.csproj.CoreCompileInputs.cache
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\CShảpCanBan.dll
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\refint\CShảpCanBan.dll
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\CShảpCanBan.pdb
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\CShảpCanBan.genruntimeconfig.cache
+E:\NET\B1\BTSauKhiLenLop\CShảpCanBan\obj\Debug\net6.0\ref\CShảpCanBan.dll

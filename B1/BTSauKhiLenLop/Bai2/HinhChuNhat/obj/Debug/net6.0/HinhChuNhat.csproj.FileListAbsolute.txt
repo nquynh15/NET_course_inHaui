@@ -1,0 +1,15 @@
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.exe
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.deps.json
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.runtimeconfig.json
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.dll
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\bin\Debug\net6.0\HinhChuNhat.pdb
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.csproj.AssemblyReference.cache
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.AssemblyInfoInputs.cache
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.AssemblyInfo.cs
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.dll
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\refint\HinhChuNhat.dll
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.pdb
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\HinhChuNhat.genruntimeconfig.cache
+E:\NET\B1\BTSauKhiLenLop\Bai2\HinhChuNhat\obj\Debug\net6.0\ref\HinhChuNhat.dll

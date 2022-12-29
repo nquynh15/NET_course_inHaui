@@ -1,0 +1,15 @@
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.csproj.AssemblyReference.cache
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.AssemblyInfoInputs.cache
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.AssemblyInfo.cs
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.csproj.CoreCompileInputs.cache
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.exe
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.deps.json
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.runtimeconfig.json
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.dll
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\bin\Debug\net6.0\TongChuoi.pdb
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.dll
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\refint\TongChuoi.dll
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.pdb
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\TongChuoi.genruntimeconfig.cache
+E:\NET\B1\BTSauKhiLenLop\TongChuoi\obj\Debug\net6.0\ref\TongChuoi.dll

@@ -1,0 +1,15 @@
+E:\NET\B1\BT Tren Lop\Baitap3b\bin\Debug\net6.0\Baitap3b.exe
+E:\NET\B1\BT Tren Lop\Baitap3b\bin\Debug\net6.0\Baitap3b.deps.json
+E:\NET\B1\BT Tren Lop\Baitap3b\bin\Debug\net6.0\Baitap3b.runtimeconfig.json
+E:\NET\B1\BT Tren Lop\Baitap3b\bin\Debug\net6.0\Baitap3b.dll
+E:\NET\B1\BT Tren Lop\Baitap3b\bin\Debug\net6.0\Baitap3b.pdb
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\Baitap3b.csproj.AssemblyReference.cache
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\Baitap3b.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\Baitap3b.AssemblyInfoInputs.cache
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\Baitap3b.AssemblyInfo.cs
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\Baitap3b.csproj.CoreCompileInputs.cache
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\Baitap3b.dll
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\refint\Baitap3b.dll
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\Baitap3b.pdb
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\Baitap3b.genruntimeconfig.cache
+E:\NET\B1\BT Tren Lop\Baitap3b\obj\Debug\net6.0\ref\Baitap3b.dll

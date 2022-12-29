@@ -1,0 +1,15 @@
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\bin\Debug\net6.0\XapLoaiHS.exe
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\bin\Debug\net6.0\XapLoaiHS.deps.json
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\bin\Debug\net6.0\XapLoaiHS.runtimeconfig.json
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\bin\Debug\net6.0\XapLoaiHS.dll
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\bin\Debug\net6.0\XapLoaiHS.pdb
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\XapLoaiHS.csproj.AssemblyReference.cache
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\XapLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\XapLoaiHS.AssemblyInfoInputs.cache
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\XapLoaiHS.AssemblyInfo.cs
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\XapLoaiHS.csproj.CoreCompileInputs.cache
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\XapLoaiHS.dll
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\refint\XapLoaiHS.dll
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\XapLoaiHS.pdb
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\XapLoaiHS.genruntimeconfig.cache
+E:\NET\B1\BTSauKhiLenLop\XapLoaiHS\obj\Debug\net6.0\ref\XapLoaiHS.dll

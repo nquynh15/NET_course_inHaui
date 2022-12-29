@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BT_TongHop/1.0.0": {
+        "runtime": {
+          "BT_TongHop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT_TongHop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
