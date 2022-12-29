@@ -1,0 +1,50 @@
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.csproj.AssemblyReference.cache
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\App.g.cs
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298_MarkupCompile.cache
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298_MarkupCompile.lref
+C:\Insight Files\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.exe
+C:\Insight Files\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.deps.json
+C:\Insight Files\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.runtimeconfig.json
+C:\Insight Files\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.runtimeconfig.dev.json
+C:\Insight Files\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.dll
+C:\Insight Files\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\ref\De3_Khai_298.dll
+C:\Insight Files\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.pdb
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\App.baml
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.g.resources
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.AssemblyInfoInputs.cache
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.AssemblyInfo.cs
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.csproj.CoreCompileInputs.cache
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.dll
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\ref\De3_Khai_298.dll
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.pdb
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.genruntimeconfig.cache
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\Window2.g.cs
+C:\Insight Files\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\Window2.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.exe
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.deps.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.runtimeconfig.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.runtimeconfig.dev.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.dll
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\bin\Debug\net5.0-windows\De3_Khai_298.pdb
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.csproj.AssemblyReference.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\Window2.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298_MarkupCompile.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298_MarkupCompile.lref
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\App.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\Window2.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.g.resources
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.AssemblyInfoInputs.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.AssemblyInfo.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.csproj.CoreCompileInputs.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.dll
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\refint\De3_Khai_298.dll
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.pdb
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\De3_Khai_298.genruntimeconfig.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De3_Khai_298\De3_Khai_298\De3_Khai_298\obj\Debug\net5.0-windows\ref\De3_Khai_298.dll

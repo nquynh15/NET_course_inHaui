@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "De2_Tien_144/1.0.0": {
+        "runtime": {
+          "De2_Tien_144.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "De2_Tien_144/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

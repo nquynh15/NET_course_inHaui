@@ -1,0 +1,68 @@
+C:\Insight Files\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.exe
+C:\Insight Files\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.deps.json
+C:\Insight Files\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.runtimeconfig.json
+C:\Insight Files\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.runtimeconfig.dev.json
+C:\Insight Files\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.dll
+C:\Insight Files\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.pdb
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.csproj.AssemblyReference.cache
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144_MarkupCompile.cache
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144_MarkupCompile.lref
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.g.resources
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.AssemblyInfoInputs.cache
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.AssemblyInfo.cs
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.csproj.CoreCompileInputs.cache
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.dll
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.pdb
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.genruntimeconfig.cache
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\App.baml
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\Window2.g.cs
+C:\Insight Files\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\Window2.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.exe
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.deps.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.runtimeconfig.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.runtimeconfig.dev.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.dll
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.pdb
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.csproj.AssemblyReference.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\Window2.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144_MarkupCompile.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144_MarkupCompile.lref
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\Window2.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.g.resources
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.AssemblyInfoInputs.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.AssemblyInfo.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.csproj.CoreCompileInputs.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.dll
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.pdb
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De2_Tien_144\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.genruntimeconfig.cache
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.csproj.AssemblyReference.cache
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\Window2.g.cs
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\App.g.cs
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144_MarkupCompile.cache
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144_MarkupCompile.lref
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.dll
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.pdb
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.exe
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.deps.json
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.runtimeconfig.json
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.runtimeconfig.dev.json
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.dll
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\bin\Debug\netcoreapp3.1\De2_Tien_144.pdb
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\App.baml
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\Window2.baml
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.g.resources
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.AssemblyInfoInputs.cache
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.AssemblyInfo.cs
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.csproj.CoreCompileInputs.cache
+E:\NET\Đề Ktra\ThamKhao_BaiTX2\ThamKhao_BaiTX2\De2_Tien_144\De2_Tien_144\obj\Debug\netcoreapp3.1\De2_Tien_144.genruntimeconfig.cache

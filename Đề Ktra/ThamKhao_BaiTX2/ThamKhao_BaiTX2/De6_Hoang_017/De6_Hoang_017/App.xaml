@@ -1,0 +1,26 @@
+﻿<Application x:Class="De6_Hoang_017.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:De6_Hoang_017"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         <!--style cho TextBox-->
+        <Style x:Key="txtStyle" TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="Foreground" Value="Blue"/>
+            <Setter Property="Height" Value="30" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="Margin" Value="10,0,0,0"/>
+        </Style>
+        <!--style cho RadioButton-->
+        <Style x:Key="radStyle" TargetType="RadioButton">
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+        <!--style cho DataGrid-->
+        <Style x:Key="dgvStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+    </Application.Resources>
+</Application>

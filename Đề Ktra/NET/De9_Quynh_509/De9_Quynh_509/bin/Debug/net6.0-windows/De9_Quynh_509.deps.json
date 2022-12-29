@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "De9_Quynh_509/1.0.0": {
+        "runtime": {
+          "De9_Quynh_509.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "De9_Quynh_509/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

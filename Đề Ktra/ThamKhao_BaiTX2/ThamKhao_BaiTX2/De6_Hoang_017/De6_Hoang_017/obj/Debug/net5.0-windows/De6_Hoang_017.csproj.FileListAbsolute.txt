@@ -1,0 +1,50 @@
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.exe
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.deps.json
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.runtimeconfig.json
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.runtimeconfig.dev.json
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.dll
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\ref\De6_Hoang_017.dll
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.pdb
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.csproj.AssemblyReference.cache
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\App.g.cs
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017_MarkupCompile.cache
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017_MarkupCompile.lref
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\App.baml
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.g.resources
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.AssemblyInfoInputs.cache
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.AssemblyInfo.cs
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.csproj.CoreCompileInputs.cache
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.dll
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\ref\De6_Hoang_017.dll
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.pdb
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.genruntimeconfig.cache
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\Window2.g.cs
+C:\Insight Files\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\Window2.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.exe
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.deps.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.runtimeconfig.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.runtimeconfig.dev.json
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.dll
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\bin\Debug\net5.0-windows\De6_Hoang_017.pdb
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.csproj.AssemblyReference.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\Window2.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017_MarkupCompile.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017_MarkupCompile.lref
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\App.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\Window2.baml
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.g.resources
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.AssemblyInfoInputs.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.AssemblyInfo.cs
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.csproj.CoreCompileInputs.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.dll
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\refint\De6_Hoang_017.dll
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.pdb
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\De6_Hoang_017.genruntimeconfig.cache
+C:\Users\NhungNT\Desktop\ThamKhaoLTNET\De6_Hoang_017\De6_Hoang_017\De6_Hoang_017\obj\Debug\net5.0-windows\ref\De6_Hoang_017.dll

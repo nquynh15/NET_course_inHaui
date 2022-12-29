@@ -1,0 +1,67 @@
+﻿<Window x:Class="De6Ktra2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De6Ktra2"
+        mc:Ignorable="d"
+        Title="Bài kiểm tra số 2" Height="650" Width="800" FontSize="20">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" Grid.RowSpan="7" Grid.ColumnSpan="2" Margin="10"
+                BorderThickness="3" BorderBrush="Green"/>
+
+        <Label Grid.Row="0" Grid.ColumnSpan="2" Content="Danh sách thí sinh" Style="{StaticResource title}"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Số báo danh"/>
+        <TextBox x:Name="txtSBD" Grid.Row="1" Grid.Column="1" Width="200"/>
+        
+        <Label Grid.Row="2" Grid.Column="0" Content="Điểm thi"/>
+        <TextBox x:Name="txtDiem" Grid.Row="2" Grid.Column="1" Width="150"/>
+
+        <Label Grid.Row="3" Grid.Column="0" Content="Ngày sinhh"/>
+        <DatePicker x:Name="dpNS" Grid.Row="3" Grid.Column="1" SelectedDate="11-29-2022" Width="250" Height="40"
+                    Margin="10 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        
+        <StackPanel Grid.Row="4" Grid.ColumnSpan="2">
+            <Label Content="Đối tượng ưu tiên"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <RadioButton x:Name="rd0" Content="Không" IsChecked="True" Margin="27 0 10 0"/>
+                <RadioButton x:Name="rd1" Content="Ưu tiên 1" Margin="10 0 10 0"/>
+                <RadioButton x:Name="rd2" Content="Ưu tiên 2" Margin="10 0 10 0"/>
+            </StackPanel>
+        </StackPanel>
+
+        <DataGrid Grid.Row="5" Grid.ColumnSpan="2" Margin="20" 
+                 x:Name="dgTS" AutoGenerateColumns="False" ColumnHeaderStyle="{StaticResource colHeader}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Số báo danh" Binding="{Binding SBD}"/>
+                <DataGridTextColumn Header="Điểm thi" Binding="{Binding Diem}"/>
+                <DataGridTextColumn Header="Ngày sinh" Binding="{Binding NS}"/>
+                <DataGridTextColumn Header="Điểm ưu tiên" Binding="{Binding UT}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Margin="10" 
+                    Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="btnNhap" Click="btn_Nhap" Content="Nhập" />
+            <Button x:Name="btnWin" Click="btn_Win" Content="Window 2" />
+        </StackPanel>
+
+    </Grid>
+</Window>
