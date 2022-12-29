@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUOjvkibN6tlBGrk41GIxUvhQoiKQCDKEi4DFDay9bTwdf3Zc0THdkD0pByOPT2I59YqleXnsRtzovSkSZYRzQ==",
+  "success": true,
+  "projectFilePath": "E:\\NET\\Demo-OOP-Tong-Hop-2\\Demo-OOP-Tong-Hop\\Demo-OOP-Tong-Hop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MY COMPUTER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\MY COMPUTER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\MY COMPUTER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\MY COMPUTER\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
